@@ -70,11 +70,11 @@ A API utilizada foi a https://randomouser.me/ que fornece informações de usuá
 
 ## Funcionalidades
 
- -[x] Filtro de usuários pelo gênero
- -[x] Filtro de usuários pela nacionalidade
- -[x] Filtro de usuários pela quantidade
- -[ ] Responsividade
- -[ ] Aumentar o filtro de quantidade de usuários
+- [x] Filtro de usuários pelo gênero
+- [x] Filtro de usuários pela nacionalidade
+- [x] Filtro de usuários pela quantidade
+- [ ] Responsividade
+- [ ] Aumentar o filtro de quantidade de usuários
 - [ ] Colocar mais opções de país
 
 ## Contatos
