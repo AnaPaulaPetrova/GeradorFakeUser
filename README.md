@@ -74,8 +74,8 @@ A API utilizada foi a https://randomouser.me/ que fornece informações de usuá
 - [x] Filtro de usuários pela nacionalidade
 - [x] Filtro de usuários pela quantidade
 - [ ] Responsividade
-- [ ] Aumentar o filtro de quantidade de usuários
-- [ ] Colocar mais opções de país
+- [x] Aumentar o filtro de quantidade de usuários
+- [x] Colocar mais opções de país
 
 ## Contatos
 ana.paula.silva06@aluno.ifce.edu.br
